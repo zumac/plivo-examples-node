@@ -21,7 +21,8 @@
     "xmlbuilder": "~8.0.0"
   },
   "directories": {
-    "test": "test"
+    "test": "test",
+    "sms": "sms"
   },
   "devDependencies": {
     "nock": "~8.0.0",
